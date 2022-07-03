@@ -11,7 +11,7 @@ npm start
 
 used because of react-scripts version incompatible with fetch module. If I would have more time I would have changed the webpack to upgrade again to the newest version of react script
 
-## undifined data
+## undefined data
 data that is not received from the api will not be displayed
 
 # Getting Started with Create React App
