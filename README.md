@@ -1,8 +1,19 @@
 # CNOM
 ## requirements
 Node v18
+# setup 
+
+set env variable
+
+export NODE_OPTIONS=--openssl-legacy-provider
+
+npm start
+
+used because of react-scripts version incompatible with fetch module. If I would have more time I would have changed the webpack to upgrade again to the newest version of react script
+
 ## undifined data
 data that is not received from the api will not be displayed
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
