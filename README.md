@@ -1,4 +1,4 @@
-# CNOM
+# Coin gecko
 ## requirements
 Node v18
 # setup 
